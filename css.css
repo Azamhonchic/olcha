@@ -1,0 +1,64 @@
+
+ .top:hover{
+    box-shadow: 2px 2px 2px 2px grey ;    
+}
+.top{
+    width: 200px;
+    height: 540px;    
+}
+.red{
+    width: 74px;
+    height: 74px;
+    background-color: #EB1537;
+    border-radius: 35px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 240px;
+    right: 5px;
+}
+.red .p{
+    font-size: 25px;
+    color: white;
+    padding: 10px 10px 10px;
+}
+ .red .p1{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom:  30px;
+    left: 5px;
+}
+.bottom .p2{
+    position: relative;
+    bottom: 70px;
+}
+.bottom h3{
+    position: relative;
+    bottom: 60px;
+}
+.red_div{
+    height: 10px;
+    width: 150px;
+    border-radius: 15px;
+    background-color: #EB1537;
+    padding: 10px;
+    position: relative;
+    bottom: 60px;
+}
+.red_div .p3 {
+    position: relative;
+    bottom: 20px;
+    color: white;
+}
+.bottom p {
+    position: relative;
+    bottom: 60px;
+}
+.bottom button{
+    width: 130px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: red;
+    position: relative;
+    bottom: 40px;
+}
